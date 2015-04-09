@@ -7,7 +7,7 @@
 package Banco;
 
 /**
- *
+ *hola q hace
  * @author sena
  */
 public class Empleados {
